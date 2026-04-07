@@ -25,10 +25,20 @@ I am a passionate developer focused on building intelligent applications and sol
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiban0507&show_icons=true&theme=radical" alt="Jiban's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiban0507&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 📊 Profile Overview
+
+![Stars](https://img.shields.io/github/stars/Jiban0507?style=for-the-badge&color=yellow)
+![Followers](https://img.shields.io/github/followers/Jiban0507?style=for-the-badge&color=blue)
+![Repo Count](https://img.shields.io/badge/Repositories-7-orange?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Active-green?style=for-the-badge)
+
+---
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
