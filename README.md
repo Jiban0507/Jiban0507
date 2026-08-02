@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jiban Maji (Jiban0507)
+# 👋 Hi, I'm Jiban Maji
 
 ### 🚀 Full-Stack Developer & AI Enthusiast
 I am a passionate developer focused on building intelligent applications and solving complex problems through code. I enjoy exploring the intersection of Web Development and Artificial Intelligence.
